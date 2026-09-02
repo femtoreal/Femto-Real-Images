@@ -1,7 +1,8 @@
 {
-  "Version": 15,
+  "Version": 16,
   "Assets": {
-    "home_banner": "https://cdn.jsdelivr.net/gh/femtoreal/Femto-Real-Images@main/images/home_banner_20260804_070737.jpg"
+    "home_banner": "https://cdn.jsdelivr.net/gh/femtoreal/Femto-Real-Images@main/images/home_banner_20260804_070737.jpg",
+    "member_img": "https://cdn.jsdelivr.net/gh/femtoreal/Femto-Real-Images@main/images/members/member_img_20260902_160741.png"
   },
-  "UpdatedAt": "2026-09-02T15:59:40.3328365Z"
+  "UpdatedAt": "2026-09-02T16:07:44.8887891Z"
 }
